@@ -13,7 +13,7 @@
  * A move is valid if an asterisk overlays one (and only one) character piece already on the board
  * A move is invalid if a player piece overlays any of the opposing player's character
 
-Instructions:
+##### Instructions:
 1.  "make"
 2.  "./filler_vm -f maps/maps01 -p1 filler -p2 players/carli.filler"
 3.  Observe. Repeat several times.
