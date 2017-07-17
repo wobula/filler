@@ -1,7 +1,7 @@
-# filler
-###### my first artificial intelligence -- (My AI is 'X' in the photos below)
+# filler - my first artificial intelligence
+###### An epic, no holds barred battle between my AI -- code named 'filler' -- and the 42 School stock AIs.
 
-An epic, no holds barred battle between my AI -- code named 'filler' -- and the 42 School stock AIs.
+My AI uses the 'X' character in the photos below:
 
 ![Input Content](https://raw.githubusercontent.com/wobula/filler/master/0.png)
 
