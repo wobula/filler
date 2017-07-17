@@ -46,6 +46,7 @@
 
 3.  Backfill leftover space
 
-4.  Offer humiliated/defeated AI bus fair back home to see crying mother
+4.  Offer humiliated/defeated AI spare change for bus fair back home to see crying mother
+
  * Win percentage is near 100% on the largest board size (greater than 75% on smallest map)
  * Checks positive and negative board X,Y values, depending on shape of piece
