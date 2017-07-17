@@ -1,9 +1,9 @@
 # filler
-###### my first artificial intelligence
-
-![Input Content](https://raw.githubusercontent.com/wobula/filler/master/0.png)
+###### my first artificial intelligence -- (My AI is 'X' in the photos below)
 
 An epic, no holds barred battle between my AI -- code named 'filler' -- and the 42 School stock AIs.
+
+![Input Content](https://raw.githubusercontent.com/wobula/filler/master/0.png)
 
 Instructions:
 1.  "make"
