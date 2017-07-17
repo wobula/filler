@@ -1,15 +1,25 @@
 # filler - my first artificial intelligence
-###### An epic, no holds barred battle between my AI -- code named 'filler' -- and the 42 School stock AIs.
-
-My AI uses the 'X' character in the photos below:
+###### An epic, no holds barred battle between my first AI -- code named 'filler' -- and the 42 School stock AIs.
 
 ![Input Content](https://raw.githubusercontent.com/wobula/filler/master/0.png)
+
+##### Game objectives and rules
+ * If a player makes an invalid move, the game is over
+ * The player with most board space at the end of the game is winner
+ * Move syntax is 'x y' where x and why represent coordinates, followed by a newline
+ * Players may use negative numbers for X,Y coordinate values
+ * The asterisks of a piece must all be placed on the board or the move is invalid
+ * The periods of a piece do not need to be on the board and can overlap any symbol
+ * A move is valid if an asterisk overlays one (and only one) character piece already on the board
+ * A move is invalid if a player piece overlays any of the opposing player's character
 
 Instructions:
 1.  "make"
 2.  "./filler_vm -f maps/maps01 -p1 filler -p2 players/carli.filler"
 3.  Observe. Repeat several times.
  * Try one of the other players/maps to see AI in different contexts
+
+ My AI uses the 'X' character in the photos below:
 
  ## Input parsing:
 
